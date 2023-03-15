@@ -89,7 +89,9 @@ public class FlightBookingTest
                 assertEquals(1, 1);
             }
             else {
+
                 assertEquals(1, 2);
+
             }
         } 
     }   
